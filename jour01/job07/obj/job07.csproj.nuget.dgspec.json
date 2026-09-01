@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\bilal\\OneDrive\\Documents\\Runtrack_c#\\jour01\\job07\\job07.csproj": {}
+    "C:\\Users\\bilal\\OneDrive\\Documents\\Runtrack_c#\\jour01\\job07\\job07.csproj": {}
   },
   "projects": {
-    "c:\\Users\\bilal\\OneDrive\\Documents\\Runtrack_c#\\jour01\\job07\\job07.csproj": {
+    "C:\\Users\\bilal\\OneDrive\\Documents\\Runtrack_c#\\jour01\\job07\\job07.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\bilal\\OneDrive\\Documents\\Runtrack_c#\\jour01\\job07\\job07.csproj",
+        "projectUniqueName": "C:\\Users\\bilal\\OneDrive\\Documents\\Runtrack_c#\\jour01\\job07\\job07.csproj",
         "projectName": "job07",
-        "projectPath": "c:\\Users\\bilal\\OneDrive\\Documents\\Runtrack_c#\\jour01\\job07\\job07.csproj",
+        "projectPath": "C:\\Users\\bilal\\OneDrive\\Documents\\Runtrack_c#\\jour01\\job07\\job07.csproj",
         "packagesPath": "C:\\Users\\bilal\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\bilal\\OneDrive\\Documents\\Runtrack_c#\\jour01\\job07\\obj\\",
+        "outputPath": "C:\\Users\\bilal\\OneDrive\\Documents\\Runtrack_c#\\jour01\\job07\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
