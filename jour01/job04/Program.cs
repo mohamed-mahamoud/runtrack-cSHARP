@@ -1,4 +1,5 @@
-﻿class job04
+﻿using System;
+class job04
 {
     static void Main(string[] args)
     {
