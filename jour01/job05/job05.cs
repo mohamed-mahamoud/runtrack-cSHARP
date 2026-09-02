@@ -2,7 +2,8 @@
 {
     static void DisplayAdventure (ref string  name,ref string classe ,ref  int age ,ref double niveau,ref float gold ,ref bool isNew)
     {
-        Console.WriteLine("L'aventurier" + name + ", un " + classe + " de niveau " + niveau + " et d'age " + age + " est une bourde de " + gold + " d'or");
+        Console.WriteLine("L'aventurier" + name + ", un " + classe + " de niveau " + niveau 
+                            + " et d'age " + age + " est une bourde de " + gold + " d'or");
         if (isNew)
         {
             Console.WriteLine("C'est un nouveau ");
