@@ -1,4 +1,4 @@
-﻿namespace GuildSupply;
+﻿namespace Tartaros.Exploration;
 
 using System;
 using System.Collections.Generic;

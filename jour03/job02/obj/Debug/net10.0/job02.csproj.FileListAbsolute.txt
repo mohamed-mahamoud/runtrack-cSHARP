@@ -1,0 +1,15 @@
+C:\Users\bilal\OneDrive\Documents\Runtrack_c#\jour03\job02\bin\Debug\net10.0\job02.exe
+C:\Users\bilal\OneDrive\Documents\Runtrack_c#\jour03\job02\bin\Debug\net10.0\job02.deps.json
+C:\Users\bilal\OneDrive\Documents\Runtrack_c#\jour03\job02\bin\Debug\net10.0\job02.runtimeconfig.json
+C:\Users\bilal\OneDrive\Documents\Runtrack_c#\jour03\job02\bin\Debug\net10.0\job02.dll
+C:\Users\bilal\OneDrive\Documents\Runtrack_c#\jour03\job02\bin\Debug\net10.0\job02.pdb
+C:\Users\bilal\OneDrive\Documents\Runtrack_c#\jour03\job02\obj\Debug\net10.0\job02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bilal\OneDrive\Documents\Runtrack_c#\jour03\job02\obj\Debug\net10.0\job02.AssemblyInfoInputs.cache
+C:\Users\bilal\OneDrive\Documents\Runtrack_c#\jour03\job02\obj\Debug\net10.0\job02.AssemblyInfo.cs
+C:\Users\bilal\OneDrive\Documents\Runtrack_c#\jour03\job02\obj\Debug\net10.0\job02.csproj.CoreCompileInputs.cache
+C:\Users\bilal\OneDrive\Documents\Runtrack_c#\jour03\job02\obj\Debug\net10.0\job02.sourcelink.json
+C:\Users\bilal\OneDrive\Documents\Runtrack_c#\jour03\job02\obj\Debug\net10.0\job02.dll
+C:\Users\bilal\OneDrive\Documents\Runtrack_c#\jour03\job02\obj\Debug\net10.0\refint\job02.dll
+C:\Users\bilal\OneDrive\Documents\Runtrack_c#\jour03\job02\obj\Debug\net10.0\job02.pdb
+C:\Users\bilal\OneDrive\Documents\Runtrack_c#\jour03\job02\obj\Debug\net10.0\job02.genruntimeconfig.cache
+C:\Users\bilal\OneDrive\Documents\Runtrack_c#\jour03\job02\obj\Debug\net10.0\ref\job02.dll

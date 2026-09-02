@@ -1,6 +1,6 @@
 ﻿namespace job01;
 
-using GuildSupply;
+using Tartaros.Exploration;
 
 class Program
 {
